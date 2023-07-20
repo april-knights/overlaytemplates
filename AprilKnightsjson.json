@@ -1,0 +1,38 @@
+Edited AprilKnights
+{
+"contact": "https://discord.gg/aprilknights",
+"templates": [
+{
+"name": "April Knights art",
+"sources": [
+"https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsDay1.png"
+],
+"x": 690,
+"y": 733
+}
+],
+"whitelist": [
+{
+"name": "CCGC",
+"url": "https://rentry.co/ccgc/raw"
+},
+{
+"name": "ccKufi",
+"url": "https://rentry.co/cckufi/raw"
+},
+{
+"name": "Narrator Nexus",
+"url": "https://rentry.co/NarratorNexus/raw"
+},
+{
+"name": "Black Company",
+"url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/bc_template.json"
+}
+],
+"blacklist": []
+}
+
+Pub: 23 Jun 2023 03:37 UTC
+Edit: 20 Jul 2023 14:06 UTC
+Views: 20
+new·what·how·langs·contacts
