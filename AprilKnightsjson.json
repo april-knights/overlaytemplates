@@ -1,32 +1,32 @@
 {
-"contact": "https://discord.gg/aprilknights",
-"templates": [
-{
-"name": "April Knights art",
-"sources": [
-"https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsDay1.png"
-],
-"x": 690,
-"y": 733
-}
-],
-"whitelist": [
-{
-"name": "CCGC",
-"url": "https://gist.githubusercontent.com/dandelion212/475fa02f258aae53c7548584be4b1cd4/raw/2e611de6dc44568d8911d91a14ebe70514f1b94d/ccgc.json"
-},
-{
-"name": "ccKufi",
-"url": "https://gist.githubusercontent.com/dandelion212/ebaeb33f70289ff702e87d8c5073d0b3/raw/5f3892a78b6ed9ec2e7b7e8e1bf7251fb87fff96/nexus.json"
-},
-{
-"name": "Narrator Nexus",
-"url": "https://gist.githubusercontent.com/dandelion212/bc202abcefafcef0270d0775b52c23ed/raw/21dc3142b659249deb593dfb835fc5e4102f39cc/cckufi.json"
-},
-{
-"name": "Black Company",
-"url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/bc_template.json"
-}
-],
-"blacklist": []
+  "contact": "https://discord.gg/aprilknights",
+  "templates": [
+    {
+      "name": "April Knights art",
+      "sources": [
+        "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnights.png"
+      ],
+      "x": 690,
+      "y": 733
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "CCGC",
+      "url": "https://gist.githubusercontent.com/dandelion212/475fa02f258aae53c7548584be4b1cd4/raw/2e611de6dc44568d8911d91a14ebe70514f1b94d/ccgc.json"
+    },
+    {
+      "name": "ccKufi",
+      "url": "https://gist.githubusercontent.com/dandelion212/ebaeb33f70289ff702e87d8c5073d0b3/raw/5f3892a78b6ed9ec2e7b7e8e1bf7251fb87fff96/nexus.json"
+    },
+    {
+      "name": "Narrator Nexus",
+      "url": "https://gist.githubusercontent.com/dandelion212/bc202abcefafcef0270d0775b52c23ed/raw/21dc3142b659249deb593dfb835fc5e4102f39cc/cckufi.json"
+    },
+    {
+      "name": "Black Company",
+      "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/bc_template.json"
+    }
+  ],
+  "blacklist": []
 }
