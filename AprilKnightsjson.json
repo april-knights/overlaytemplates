@@ -11,15 +11,11 @@
     }
   ],
   "whitelist": [
+    {
+      "name": "Black Company",
+      "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/bc_template.json"
+    }
   ],
   "blacklist": [
-    {
-      "name": "cckufi",
-      "url": "https://gist.githubusercontent.com/dandelion212/bc202abcefafcef0270d0775b52c23ed/raw/0e5a61fa5c6d1219ece4b00fbc376ae8be72f450/cckufi.json",
-      "name": "ccgc",
-      "url": "https://gist.githubusercontent.com/dandelion212/475fa02f258aae53c7548584be4b1cd4/raw/381391075d41812be657df89c6c2bb8d206de70a/ccgc.json",
-      "name": "nexus",
-      "url": "https://gist.githubusercontent.com/dandelion212/ebaeb33f70289ff702e87d8c5073d0b3/raw/383eadcc89a676b79c7c16c76ed30aa2281af419/nexus.json"
-    }
   ]
 }
