@@ -2,12 +2,12 @@
   "contact": "https://discord.gg/aprilknights",
   "templates": [
     {
-      "name": "April Knights art",
+      "name": "April Knights Art",
       "sources": [
         "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsDay3Plan.png"
       ],
       "x": 1175,
-      "y": 1223
+      "y": 1723
     }
   ],
   "whitelist": [
