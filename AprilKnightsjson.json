@@ -14,10 +14,6 @@
     {
       "name": "Black Company",
       "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/bc_template.json"
-    },
-	{
-      "name": "Blue Corner",
-      "url": "https://rentry.co/od37p/raw"
     }
   ],
   "blacklist": [
