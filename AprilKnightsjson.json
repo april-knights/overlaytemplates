@@ -7,13 +7,17 @@
         "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsDay3Plan.png"
       ],
       "x": 1175,
-      "y": 1223
+      "y": 723
     }
   ],
   "whitelist": [
     {
       "name": "Black Company",
       "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/bc_template.json"
+    },
+	{
+      "name": "Blue Corner",
+      "url": "https://rentry.co/od37p/raw"
     }
   ],
   "blacklist": [
