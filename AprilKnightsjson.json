@@ -4,13 +4,17 @@
     {
       "name": "April Knights art",
       "sources": [
-        "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsDay2PlanNew2.png"
+        "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsDay2PlanNew.png"
       ],
-      "x": 675,
+      "x": 1175,
       "y": 723
     }
   ],
   "whitelist": [
+    {
+      "name": "Black Company",
+      "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/bc_template.json"
+    }
   ],
   "blacklist": [
     {
