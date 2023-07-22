@@ -11,10 +11,6 @@
     }
   ],
   "whitelist": [
-    {
-      "name": "Black Company",
-      "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/bc_template.json"
-    }
   ],
   "blacklist": [
     {
