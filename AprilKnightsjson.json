@@ -18,6 +18,10 @@
     {
       "name": "CCGC",
       "url": "https://raw.githubusercontent.com/dandelion212/place3stuff/main/CCGC.json"
+    },
+    {
+      "name": "Blue Corner",
+      "url": "https://raw.githubusercontent.com/SwingTheVine/thebluecorner2023/main/thebluecorner2023.json"
     }
   ],
   "blacklist": [
