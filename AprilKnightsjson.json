@@ -4,9 +4,9 @@
     {
       "name": "April Knights Art",
       "sources": [
-        "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsDay3PlanTaskbar.png"
+        "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsDay3Plan.png"
       ],
-      "x": 0,
+      "x": 1175,
       "y": 1223
     }
   ],
@@ -22,6 +22,10 @@
     {
       "name": "Blue Corner",
       "url": "https://raw.githubusercontent.com/SwingTheVine/thebluecorner2023/main/thebluecorner2023.json"
+    }
+        {
+      "name": "Taskbar",
+      "url": "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart.json"
     }
   ],
   "blacklist": [
