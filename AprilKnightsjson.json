@@ -23,10 +23,6 @@
       "name": "Blue Corner",
       "url": "https://raw.githubusercontent.com/SwingTheVine/thebluecorner2023/main/thebluecorner2023.json"
     }
-    {
-      "name": "Taskbar",
-      "url": "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart.json"
-    }
   ],
   "blacklist": [
   ]
