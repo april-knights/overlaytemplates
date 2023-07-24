@@ -22,12 +22,12 @@
     {
       "name": "Taskbar",
       "url": "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart.json"
-    }
-  ],
-  "blacklist": [
-	{
+    },
+    {
       "name": "Black Company",
       "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/bc_template.json"
     }
+  ],
+  "blacklist": [
   ]
 }
