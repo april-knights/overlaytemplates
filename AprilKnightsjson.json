@@ -11,11 +11,7 @@
     }
   ],
   "whitelist": [
-    {
-      "name": "Black Company",
-      "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/bc_template.json"
-    },
-    {
+	{
       "name": "CCGC",
       "url": "https://raw.githubusercontent.com/dandelion212/place3stuff/main/CCGC.json"
     },
@@ -29,5 +25,9 @@
     }
   ],
   "blacklist": [
+	{
+      "name": "Black Company",
+      "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/bc_template.json"
+    }
   ]
 }
