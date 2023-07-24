@@ -29,5 +29,29 @@
     }
   ],
   "blacklist": [
+	{
+      "name": "Black Company",
+      "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/bc_template.json"
+    },
+	{
+      "name": "r/AmericanFlagInPlace",
+      "url": "https://afip.us/place/overlay"
+    },
+    {
+      "name": "TheBlueCorner Moto",
+      "url": "https://rentry.co/od37p/raw"
+    },
+	{
+      "name": "Join Lemmy",
+      "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/lemmy_template.json"
+    },
+	{
+      "name": "Foxhole",
+      "url": "https://pastebin.com/raw/icTkrAnz"
+    },
+	{
+      "name": "FUCK SPEZ Big",
+      "url": "https://fmxal.mooo.com/fuck-spez-live/template.json"
+    }
   ]
 }
