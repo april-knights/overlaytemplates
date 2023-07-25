@@ -11,7 +11,7 @@
     }
   ],
   "whitelist": [
-	{
+    {
       "name": "CCGC",
       "url": "https://raw.githubusercontent.com/dandelion212/place3stuff/main/CCGC.json"
     },
@@ -26,6 +26,10 @@
     {
       "name": "Black Company",
       "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/bc_template.json"
+    },
+	{
+      "name": "P3ace logo",
+      "url": "https://raw.githubusercontent.com/dandelion212/place3stuff/main/P3ace%20logo.json"
     }
   ],
   "blacklist": [
